@@ -63,9 +63,9 @@ df = df.dropna()
 
 print("Original Dataset")
 print(df.head())
-
+```
 <img width="487" height="191" alt="image" src="https://github.com/user-attachments/assets/81f2badd-1a8c-476c-925c-dff81bf14ed6" />
-
+```
 
 
 # STEP 3: Feature Encoding (Example categorical column)
@@ -128,10 +128,10 @@ final_df.to_csv(
 print("\nTransformation Completed")
 print("Saved as Transformed_Output.csv")
 print(final_df.head())
-
+```
 
 <img width="721" height="526" alt="image" src="https://github.com/user-attachments/assets/ad4f28ee-36ac-42d9-b618-7ebf1a00adf9" />
-```
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
 
